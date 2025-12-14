@@ -12,7 +12,7 @@ This project implements an orchestrator-based multi-agent architecture where a c
 - **Orchestrator Agent**: Central coordinator that analyzes user queries and routes them to appropriate specialized agents
 - **Web Search & Finance Agent**: Performs comprehensive web searches, retrieves relevant information, and handles financial queries and market data
 - **Lead Capture Agent**: Collects and stores customer information including name, phone number, email, address, and monthly income
-- **Support Agent**: Provides customer support and assistance
+- **Support Agent**: Provides customer support and assistance(Ongoing)
 - **Report Agent**: Generates reports and analytics(To be added)
 
 ### Specialized Functionalities
